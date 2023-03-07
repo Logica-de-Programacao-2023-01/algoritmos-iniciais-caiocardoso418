@@ -1,0 +1,5 @@
+Algoritmo de conversão de temperatura: um algoritmo que converte uma temperatura em Celsius para Fahrenheit ou vice-versa
+
+1- leia "temp em cel"
+2- faça 1,8*"temp em cel" + 32 = "fah"
+3 escreva "fah" 
